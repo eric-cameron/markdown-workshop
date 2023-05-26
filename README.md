@@ -3,14 +3,14 @@
 ## Eric Cameron, Java Instructor, Tech Elevator
 ## Original submission 05/13/2023
 
+### [Starter.md](Starter.md)
+* Contains unformatted text to manipulate.
 
-- More information coming soon
+### [TE-Logo.png](TE-Logo.png)
+* An image to insert into the markdown document.
 
-### Sample.md
-- Planning on adding a file with some unformatted text.
+### [Final.md](Final.md)
+* A formatted version of the Starter.md file.
 
-### TE-Logo.png
-- An image to insert into sample markdown document.
-
-### Final.md
-- Planning on adding a formatted version of Sample.md as well.
+### [Resources.md](Resources.md)
+* Contains resources and links for reference.

@@ -1,7 +1,7 @@
 # Welcome to Tech Elevator! ![TE Logo](TE-Logo.png)
 
 ## Curriculum Information
-At Tech Elevator, we offer full-stack program that includes:
+> Tech Elevator guides, supports and leads people with zero coding experience into high-earning careers. At Tech Elevator, we offer full-stack program that includes:
 1. Module 1 - Intro to Programming
     * C# 
     * Java
@@ -40,3 +40,5 @@ p{
 * [Instagram](https://www.instagram.com/techelevator)
 * [LinkedIn](https://www.linkedin.com/school/tech-elevator/)
 * [Twitter](https://twitter.com/Tech_Elevator)
+
+What the final version should look like: Final.md
