@@ -41,4 +41,4 @@ p{
 * [LinkedIn](https://www.linkedin.com/school/tech-elevator/)
 * [Twitter](https://twitter.com/Tech_Elevator)
 
-What the final version should look like: Final.md
+What the final version should look like: [Final.md](Final.md)
